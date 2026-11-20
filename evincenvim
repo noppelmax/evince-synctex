@@ -1,0 +1,1 @@
+evince-synctex listen "nvim --server /tmp/nvim.pipe --remote-send '<C-\><C-N>:e %f<CR>:%l<CR>'"
